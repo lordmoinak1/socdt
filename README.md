@@ -1,7 +1,7 @@
 # SoC-DT: Standard-of-Care Digital Twins for Tumor Dynamics
 
-**Authors:** Moinak Bhattacharya, Gagandeep Singh, Prateek Prasanna  
-**Status:** Under submission  
+### **Authors:** Moinak Bhattacharya, Gagandeep Singh, Prateek Prasanna  
+### **Status:** Under submission  
 ---
 
 ## Training
