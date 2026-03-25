@@ -1,6 +1,8 @@
 # SoC-DT: Standard-of-Care Digital Twins for Tumor Dynamics
 Authors: [Moinak Bhattacharya](https://sites.google.com/stonybrook.edu/moinakbhattacharya), [Gagandeep Singh](https://www.columbiaradiology.org/profile/gagandeep-singh-mbbs), [Prateek Prasanna](https://you.stonybrook.edu/imaginelab/)
-Status: Under submission  
+
+**Status**: Under Review
+
 ---
 
 ## Training
